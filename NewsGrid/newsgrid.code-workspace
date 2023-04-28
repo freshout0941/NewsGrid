@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Desktop/Hotel"
+		},
+		{
+			"path": "../Desktop/fabian"
+		},
+		{
+			"path": "../Desktop/E.A_Holdings"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "E.A_Holdings"
+	}
+}
